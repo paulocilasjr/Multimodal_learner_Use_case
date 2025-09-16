@@ -1,5 +1,6 @@
 .DS_Store
 datasets/
+AutogluonModels/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
