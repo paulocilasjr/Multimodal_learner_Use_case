@@ -1,0 +1,59 @@
+{
+  "train": {
+    "Accuracy": 0.6743421052631579,
+    "Precision": 0.0,
+    "Recall_(Sensitivity/TPR)": 0.0,
+    "F1-Score": 0.0,
+    "Specificity_(TNR)": 1.0,
+    "ROC-AUC": 0.5354767184035477,
+    "PR-AUC": 0.35088745822212286,
+    "LogLoss": 0.9982479063178001,
+    "MCC": 0.0,
+    "AG_roc_auc": 0.5354767184035477
+  },
+  "val": {
+    "Accuracy": 0.6818181818181818,
+    "Precision": 0.0,
+    "Recall_(Sensitivity/TPR)": 0.0,
+    "F1-Score": 0.0,
+    "Specificity_(TNR)": 1.0,
+    "ROC-AUC": 0.7761904761904761,
+    "PR-AUC": 0.6104501274193888,
+    "LogLoss": 0.8638140972180873,
+    "MCC": 0.0,
+    "AG_roc_auc": 0.7761904761904763
+  },
+  "test": {
+    "Accuracy": 0.6666666666666666,
+    "Precision": 0.0,
+    "Recall_(Sensitivity/TPR)": 0.0,
+    "F1-Score": 0.0,
+    "Specificity_(TNR)": 0.9830508474576272,
+    "ROC-AUC": 0.49515738498789347,
+    "PR-AUC": 0.33200675769148036,
+    "LogLoss": 1.0300117512022093,
+    "MCC": -0.07428545439536635,
+    "AG_roc_auc": 0.49515738498789347
+  },
+  "ag_eval": {
+    "train": {
+      "roc_auc": 0.5354767184035477
+    },
+    "val": {
+      "roc_auc": 0.7761904761904763
+    },
+    "test": {
+      "roc_auc": 0.49515738498789347
+    }
+  },
+  "fit_summary": {
+    "val_roc_auc": 0.6690475940704346,
+    "training_time": 849.1265246868134
+  },
+  "problem_type": "binary",
+  "predictor_path": "/share/lab_goecks/paulo/head_and_neck/Multimodal_learner_Use_case/experiments/AutogluonModels/ag-20250922_021939",
+  "threshold": null,
+  "threshold_test": null,
+  "presets": null,
+  "eval_metric": "roc_auc"
+}
