@@ -1,0 +1,2 @@
+seed,preset,train_rows,val_rows,test_rows,roc_auc_train,roc_auc_val,roc_auc_test,save_path,images_zip_extracted_dir,report_path
+42,high_quality,728,67,134,0.9372509358773095,0.7935897435897437,0.7287728772877288,multimodal_learner/high_quality-seed42,/home/4475918/tmp/ag_images_0itvmqku,report_mm_CD3_CD8.html

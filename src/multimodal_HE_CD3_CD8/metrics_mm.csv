@@ -1,0 +1,2 @@
+seed,preset,train_rows,val_rows,test_rows,roc_auc_train,roc_auc_val,roc_auc_test,save_path,images_zip_extracted_dirs,report_path
+42,high_quality,714,65,133,0.5482506728181469,0.6246498599439776,0.51,multimodal_HE_CD3_CD8/high_quality-seed42,/home/4475918/tmp/ag_images_dgtb6v55;/home/4475918/tmp/ag_images_3vepmf16;/home/4475918/tmp/ag_images_osl86h4_;/home/4475918/tmp/ag_images_4rfyoj4j,report_mm_HE_CD3_CD8.html
